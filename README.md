@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is **Kamal Kanti Chakma**
 I love to build things for web that solve real world problems using my skills and helps others.
 
-### Skills:  Java/ React / JavaScript / HTML / CSS/ Java / SQL
+### Skills:  React / JavaScript / HTML / CSS/ Java / SQL /Java
 
 - 💬 Ask me about React/JavaScript/HTML/CSS
 - 📫 How to reach me: mr.kamalchakma@gmail.com 
