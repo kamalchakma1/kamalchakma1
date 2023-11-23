@@ -7,3 +7,12 @@ I'm ***KAMAL KANTI CHAKMA***, a passionate front-end developer with over 9 month
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,mui,styledcomponents,nodejs,express,mongodb)](https://skillicons.dev)
 
+
+
+**GIHUB STATS**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalchakma1&layout=compact)](https://github.com/kamalchakm1)
+
+
+
+
