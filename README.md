@@ -1,7 +1,6 @@
 
-👋 ***Hello there!***
+![I’m Kamal kanti chakma](https://github.com/kamalchakma1/kamalchakma1/assets/53227040/926d230e-bbf6-414f-8755-42e4b4b0af41)
 
-I'm ***KAMAL KANTI CHAKMA***, a full-stack developer.
 
 **TECHNICAL SKILLS**
 
