@@ -1,6 +1,7 @@
 
 
-![I’m Kamal kanti chakma (1)](https://github.com/kamalchakma1/kamalchakma1/assets/53227040/f98b0a93-01b6-43d2-9118-4bad29e9e4ec)
+![I’m Kamal kanti chakma](https://github.com/kamalchakma1/kamalchakma1/assets/53227040/0a26c379-fd82-4c5b-ab5c-901e59f631e4)
+
 
 
 **TECHNICAL SKILLS**
